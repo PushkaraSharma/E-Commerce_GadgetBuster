@@ -38,7 +38,7 @@ function ProductScreen({ match }) {
                         <ListGroup.Item>
                             <Row>
                                 <Col>Price: &#8377;{product.price}</Col>
-                                <Col><s>&#8377;{product.original_price}</s> </Col>
+                                <Col><s>&#8377;{product.originalPrice}</s> </Col>
                             </Row>
                         </ListGroup.Item>
 

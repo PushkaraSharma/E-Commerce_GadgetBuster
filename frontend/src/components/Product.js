@@ -25,7 +25,7 @@ function Product({product}) {
                 <strong>&#8377;{product.price}</strong>
             </Card.Text> 
             <Card.Text as="h5">
-                 <s>&#8377;{product.original_price}</s>
+                 <s>&#8377;{product.originalPrice}</s>
             </Card.Text>
    
          </Card.Body>
